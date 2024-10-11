@@ -1,7 +1,7 @@
 :root {
     /* colors */
 
-    --font-dark: #7564252;
+    --font-dark: #756452;
     --font-light: #fff;
     --font-footer: #d6d1c6;
 
@@ -17,12 +17,23 @@
     --game-cell-32: #f68064;
 
     /* Spacing */
-
+    --spacing-xxsmall: 0.25rem;
+    --spacing-xsmall: 0.5rem;
     --spacing-small: 1rem;
     --spacing-medium: 2rem;
     --spacing-large: 4rem;
+    --spacing-xlarge: 8rem;
+    --spacing-xxlarge: 16rem;
 
-    --border-radius: 0.5rem;
+    --border-radius: 0.75rem;
 
-
+    /* sizing */
+    
+    --sizing-xxsmall: 0.25rem;
+    --sizing-xsmall: 0.5rem;
+    --sizing-small: 1rem;
+    --sizing-medium: 2rem;
+    --sizing-large: 4rem;
+    --sizing-xlarge: 8rem;
+    --sizing-xxlarge: 16rem;
 }
