@@ -1,0 +1,28 @@
+:root {
+    /* colors */
+
+    --font-dark: #7564252;
+    --font-light: #fff;
+    --font-footer: #d6d1c6;
+
+    --primary-background-color: #faf8f0;
+    --secondary-background-color: #e9e7d9;
+
+    --game-grid-background: #9c8a7c;
+    --game-cell-empty: #bdac98;
+    --game-cell-2: #efe5da;
+    --game-cell-4: #ebd8b6;
+    --game-cell-8: #f2b076;
+    --game-cell-16: #f58f5b;
+    --game-cell-32: #f68064;
+
+    /* Spacing */
+
+    --spacing-small: 1rem;
+    --spacing-medium: 2rem;
+    --spacing-large: 4rem;
+
+    --border-radius: 0.5rem;
+
+
+}
