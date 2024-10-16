@@ -7,6 +7,7 @@
 
     --primary-background-color: #faf8f0;
     --secondary-background-color: #e9e7d9;
+    --button-background-color-inactive: #baac9a4d;
 
     --game-grid-background: #9c8a7c;
     --game-cell-empty: #bdac98;
@@ -29,11 +30,12 @@
 
     /* sizing */
     
-    --sizing-xxsmall: 0.25rem;
-    --sizing-xsmall: 0.5rem;
-    --sizing-small: 1rem;
-    --sizing-medium: 2rem;
-    --sizing-large: 4rem;
-    --sizing-xlarge: 8rem;
-    --sizing-xxlarge: 16rem;
+    --sizing-xxsmall: 0.5rem;
+    --sizing-xsmall: 0.66rem;
+    --sizing-small: 0.75rem;
+    --sizing-medium: 1rem;
+    --sizing-large: 2rem;
+    --sizing-xlarge: 3rem;
+    --sizing-xxlarge: 4rem;
+    
 }
