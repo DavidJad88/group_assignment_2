@@ -46,6 +46,7 @@ body {
     border: none;
     background: none;
     justify-self: right;
+    cursor: pointer;
 }
 
 .header__button-right {
